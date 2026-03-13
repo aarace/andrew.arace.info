@@ -11,6 +11,9 @@
     <div class="banner"><a href="https://arace.info">← arace.info</a></div>
     <div class="container">
       <header class="site-header">
+        {% if site.logo %}
+        <img src="{{ site.logo | relative_url }}" alt="{{ site.title }}" style="width:80px;height:80px;border-radius:50%;object-fit:cover;margin-bottom:0.75rem;display:block;">
+        {% endif %}
         <h1><a href="/" style="text-decoration:none;color:inherit;">{{ site.title }}</a></h1>
         {% if site.description and site.description != "" %}
         <p>{{ site.description }}</p>
