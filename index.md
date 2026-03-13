@@ -13,3 +13,9 @@ Software Engineering Director, developer, and designer.
 
 - [🗃 Recipe Box](/recipes)
 - [🔽 Downloads](/downloads)
+
+### Writing
+
+{% for post in site.posts %}
+- [{{ post.title }}]({{ post.url }}) — {{ post.date | date: "%B %-d, %Y" }}
+{% endfor %}
