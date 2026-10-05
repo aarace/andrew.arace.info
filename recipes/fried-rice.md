@@ -15,7 +15,7 @@
 - vegetable oil or peanut oil
 - cooked rice, preferably leftover day-old cooked refrigerated rice
 
-## Instructions
+## Directions
 1. Coat wok in vegetable/peanut oil and heat until the oil starts to smoke.
 2. Discard oil
 3. Add new vegetable/peanut oil and spread around the wok

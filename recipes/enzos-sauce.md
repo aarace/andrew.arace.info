@@ -11,7 +11,7 @@ Created as a dupe to Raising Cane's sauce, by researching other's attempts in yo
 - 1/2 teaspoon onion powder
 - 1/2 teaspoon smoked paprika
 
-### Directions
+## Directions
 Mix all ingredients together thoroughly.
 
 Use immediately, or refrigerate in a sealed container.

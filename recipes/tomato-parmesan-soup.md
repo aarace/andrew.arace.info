@@ -18,7 +18,7 @@
 - salt & pepper to taste (at the end)
 
 
-### Directions
+## Directions
 1. Sautee the onion in butter about 5 mins
 2. Add garlic and saute about 2 more mins
 3. Deglaze with all of the broth and Worcestershire sauce

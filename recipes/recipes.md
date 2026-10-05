@@ -17,6 +17,7 @@ permalink: /recipes/
 - [Instant Pot No-Bean Chili](no-bean-chili.md)
 - [Tomato Parmesan Soup](tomato-parmesan-soup.md)
 - [Uncle Rogers Fried Rice](fried-rice.md)
+- [3-Step Chicken Tinga](chicken-tinga.md)
 
 ### Desserts
 - [Sea Salt Vanilla Bean Caramels](caramels.md)
