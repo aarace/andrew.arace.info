@@ -16,6 +16,7 @@ permalink: /recipes/
 ### Meals
 - [Instant Pot No-Bean Chili](no-bean-chili.md)
 - [Tomato Parmesan Soup](tomato-parmesan-soup.md)
+- [Uncle Rogers Fried Rice](fried-rice.md)
 
 ### Desserts
 - [Sea Salt Vanilla Bean Caramels](caramels.md)
