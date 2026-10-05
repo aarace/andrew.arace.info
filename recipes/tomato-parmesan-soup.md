@@ -17,7 +17,6 @@
 - 2 28oz can of fire roasted crushed (or diced) tomatoes
 - salt & pepper to taste (at the end)
 
-
 ## Directions
 1. Sautee the onion in butter about 5 mins
 2. Add garlic and saute about 2 more mins
