@@ -1,7 +1,12 @@
-<nav class="site-nav">
-  <a href="/">Home</a>
-  <a href="/#writing">Writing</a>
-  <a href="/tags/">Tags</a>
-  <a href="/recipes/">Recipes</a>
-  <a href="/downloads/">Downloads</a>
-</nav>
+<aside class="sidebar">
+  <a class="sidebar-home" href="/">
+    {% if site.logo %}<img src="{{ site.logo | relative_url }}" alt="">{% endif %}
+    <span>{{ site.title }}</span>
+  </a>
+  <nav>
+    <a href="/#writing"{% if page.collection == "posts" %} class="active"{% endif %}>Writing</a>
+    <a href="/tags/"{% if page.url == "/tags/" %} class="active"{% endif %}>Tags</a>
+    <a href="/recipes/"{% if page.url contains "/recipes/" %} class="active"{% endif %}>Recipes</a>
+    <a href="/downloads/"{% if page.url == "/downloads/" %} class="active"{% endif %}>Downloads</a>
+  </nav>
+</aside>

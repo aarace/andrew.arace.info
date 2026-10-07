@@ -5,12 +5,14 @@
   </head>
   <body>
     <div class="banner"><a href="https://arace.info">← arace.info</a></div>
-    <div class="container">
+    <div class="layout">
       {% include nav.html %}
-      <main>{{ content }}</main>
-      <footer class="site-footer">
-        <p>Hosted on <a href="https://github.com/aarace/andrew.arace.info">GitHub Pages</a> · <a href="{{ '/feed.xml' | relative_url }}">RSS</a></p>
-      </footer>
+      <div class="container">
+        <main>{{ content }}</main>
+        <footer class="site-footer">
+          <p>Hosted on <a href="https://github.com/aarace/andrew.arace.info">GitHub Pages</a> · <a href="{{ '/feed.xml' | relative_url }}">RSS</a></p>
+        </footer>
+      </div>
     </div>
     {% include analytics.html %}
   </body>
