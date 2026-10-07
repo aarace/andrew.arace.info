@@ -1,8 +1,6 @@
 ---
 layout: home
 ---
-## Andrew Arace
-
 Software Engineering Director, developer, and designer.
 
 ### Contact
@@ -11,11 +9,6 @@ Software Engineering Director, developer, and designer.
 |:-------------|:--------------------------------------------------------|
 | linkedin     | [Andrew Arace](https://www.linkedin.com/in/andrewarace/)| 
 | email        | [andrew.arace@gmail.com](mailto:andrew.arace@gmail.com) | 
-
-### Pages
-
-- [🗃 Recipe Box](/recipes)
-- [🔽 Downloads](/downloads)
 
 ### Writing
 
