@@ -1,26 +1,4 @@
-<!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
-  <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    {% seo %}
-    <link rel="stylesheet" href="https://arace.info/style.css">
-    <link rel="icon" href="/favicon.ico">
-  </head>
-  <body>
-    <div class="banner"><a href="https://arace.info">← arace.info</a></div>
-    <div class="container">
-      <main>{{ content }}</main>
-      <footer class="site-footer">
-        <p>Hosted on <a href="https://github.com/aarace/andrew.arace.info">GitHub Pages</a></p>
-      </footer>
-    </div>
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-S3GWP5C7QL"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-      gtag('config', 'G-S3GWP5C7QL');
-    </script>
-  </body>
-</html>
+---
+layout: default
+---
+{{ content }}

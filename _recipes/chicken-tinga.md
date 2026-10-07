@@ -1,3 +1,6 @@
+---
+title: "3-Step Chicken Tinga"
+---
 # 3-Step Chicken Tinga
 
 ## Notes

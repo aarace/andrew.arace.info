@@ -19,3 +19,18 @@ defaults:
       path: "" # an empty string here means all files in the project
     values:
       layout: "default"
+  -
+    scope:
+      path: ""
+      type: "recipes"
+    values:
+      layout: "recipe"
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed
+
+collections:
+  recipes:
+    output: true
+    permalink: /:collection/:name:output_ext

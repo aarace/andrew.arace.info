@@ -1,3 +1,6 @@
+---
+title: "Enzo's Sauce"
+---
 # Enzo's Sauce
 
 Created as a dupe to Raising Cane's sauce, by researching other's attempts in youtube videos and blog posts.

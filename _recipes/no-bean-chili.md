@@ -1,3 +1,6 @@
+---
+title: "Instant Pot No-Bean Chili"
+---
 # Instant Pot No-Bean Chili
 
 ## Notes

@@ -7,19 +7,18 @@ permalink: /recipes/
 ## 🗃 Recipe Box
 
 ### Sauces
-- [Enzo's Cane Sauce Dupe](enzos-sauce.md)
+- [Enzo's Cane Sauce Dupe](/recipes/enzos-sauce.html)
 
 ### Snacks
-- [Cold-Pickled Carrots](carrots.md)
-- [Pickled Fresno Chilies](https://gist.github.com/AndrewArace/953f673e66f613e379eb18560ee99253)
+- [Cold-Pickled Carrots](/recipes/carrots.html)
+- [Pickled Fresno Chilies](/recipes/chilies.html)
 
 ### Meals
-- [Instant Pot No-Bean Chili](no-bean-chili.md)
-- [Tomato Parmesan Soup](tomato-parmesan-soup.md)
-- [Uncle Rogers Fried Rice](fried-rice.md)
-- [3-Step Chicken Tinga](chicken-tinga.md)
+- [Instant Pot No-Bean Chili](/recipes/no-bean-chili.html)
+- [Tomato Parmesan Soup](/recipes/tomato-parmesan-soup.html)
+- [Uncle Rogers Fried Rice](/recipes/fried-rice.html)
+- [3-Step Chicken Tinga](/recipes/chicken-tinga.html)
 
 ### Desserts
-- [Sea Salt Vanilla Bean Caramels](caramels.md)
+- [Sea Salt Vanilla Bean Caramels](/recipes/caramels.html)
 
-[back](/)

@@ -1,3 +1,6 @@
+---
+title: "Sea Salt Vanilla Bean Caramels"
+---
 # Sea Salt Vanilla Bean Caramels
 
 ## Required Special Equipment and Notes

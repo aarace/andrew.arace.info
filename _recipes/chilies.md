@@ -1,3 +1,6 @@
+---
+title: "Pickled Fresno Chilies"
+---
 # Pickled Fresno Chilies
 
 ## Required Special Equipment and Notes

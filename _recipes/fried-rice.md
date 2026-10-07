@@ -1,3 +1,6 @@
+---
+title: "Uncle Roger's Fried Rice"
+---
 # Uncle Roger's Fried Rice
 
 ## Notes

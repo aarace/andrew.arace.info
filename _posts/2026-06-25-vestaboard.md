@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Vestaboard"
+description: "A morning weather and tide briefing, plus Slack and Discord bots, for my Vestaboard."
+tags: [javascript, nodejs, integrations]
 ---
 A [Vestaboard](https://www.vestaboard.com/) is a split-flap display with 6 rows of 22 characters (and they're steadily growing with other sizes and options). The company brought this this classic "train station" display to the modern world with API support. I got one as a huge gift (thank you babydoll 🥰) and immediately started building integrations with it.
 

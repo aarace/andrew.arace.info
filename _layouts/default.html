@@ -1,35 +1,17 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    {% seo %}
-    <link rel="stylesheet" href="https://arace.info/style.css">
-    <link rel="icon" href="/favicon.ico">
+    {% include head.html %}
   </head>
   <body>
     <div class="banner"><a href="https://arace.info">← arace.info</a></div>
     <div class="container">
-      <header class="site-header">
-        {% if site.logo %}
-        <img src="{{ site.logo | relative_url }}" alt="{{ site.title }}" style="width:80px;height:80px;border-radius:50%;object-fit:cover;margin-bottom:0.75rem;display:block;">
-        {% endif %}
-        <h1><a href="/" style="text-decoration:none;color:inherit;">{{ site.title }}</a></h1>
-        {% if site.description and site.description != "" %}
-        <p>{{ site.description }}</p>
-        {% endif %}
-      </header>
+      {% include nav.html %}
       <main>{{ content }}</main>
       <footer class="site-footer">
-        <p>Hosted on <a href="https://github.com/aarace/andrew.arace.info">GitHub Pages</a></p>
+        <p>Hosted on <a href="https://github.com/aarace/andrew.arace.info">GitHub Pages</a> · <a href="{{ '/feed.xml' | relative_url }}">RSS</a></p>
       </footer>
     </div>
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-S3GWP5C7QL"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-      gtag('config', 'G-S3GWP5C7QL');
-    </script>
+    {% include analytics.html %}
   </body>
 </html>

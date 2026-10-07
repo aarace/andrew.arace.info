@@ -6,4 +6,3 @@ permalink: /downloads/
 
 ## Downloads
 
-[back](/)

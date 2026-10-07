@@ -1,3 +1,6 @@
+---
+title: "Cold Pickled Carrots"
+---
 # Cold Pickled Carrots
 
 ## Required Special Equipment and Notes

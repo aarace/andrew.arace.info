@@ -1,3 +1,6 @@
+---
+layout: home
+---
 ## Andrew Arace
 
 Software Engineering Director, developer, and designer.
@@ -17,5 +20,5 @@ Software Engineering Director, developer, and designer.
 ### Writing
 
 {% for post in site.posts %}
-- [{{ post.title }}]({{ post.url }}) — {{ post.date | date: "%B %-d, %Y" }}
+- [{{ post.title }}]({{ post.url }}) — {{ post.date | date: "%B %-d, %Y" }}{% if post.description %}<br><small>{{ post.description }}</small>{% endif %}
 {% endfor %}

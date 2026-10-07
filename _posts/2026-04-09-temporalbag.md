@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "TemporalBag"
+description: "A thread-safe .NET collection whose items expire automatically, published on NuGet."
+tags: [dotnet, open-source, nuget]
 ---
 On a side project I needed a .NET collection where entries expire automatically after a set time. It also had to support:
 - thread safety
