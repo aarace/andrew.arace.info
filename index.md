@@ -9,6 +9,7 @@ Software Engineering Director, developer, and designer.
 |:-------------|:--------------------------------------------------------|
 | linkedin     | [Andrew Arace](https://www.linkedin.com/in/andrewarace/)| 
 | email        | [andrew.arace@gmail.com](mailto:andrew.arace@gmail.com) | 
+| github       | [aarace](https://github.com/aarace) | 
 
 ### Writing
 
