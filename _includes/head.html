@@ -8,13 +8,19 @@
   .layout { display:grid; grid-template-columns:180px minmax(0, 700px); justify-content:center; column-gap:2rem; }
   .layout > .container { margin:0; width:100%; }
   .sidebar { position:sticky; top:0; align-self:start; padding:2.5rem 0 2rem 1.5rem; }
-  .sidebar a, .sidebar a[href="/"] { display:block; margin:0; font-size:0.9rem; color:#888; text-decoration:none; }
-  .sidebar a:hover { color:#1a1a1a; }
+  .sidebar nav a, .sidebar a.sidebar-home { display:block; margin:0; font-size:0.9rem; color:#888; text-decoration:none; }
+  .sidebar nav a:hover { color:#1a1a1a; }
   .sidebar-home { display:flex !important; align-items:center; gap:0.6rem; margin-bottom:1.5rem !important; color:#1a1a1a !important; font-weight:600; }
   .sidebar-home img { width:32px; height:32px; border-radius:50%; object-fit:cover; }
   .sidebar nav { display:flex; flex-direction:column; gap:0.4rem; padding-left:0.75rem; border-left:1px solid #e8e8e8; }
   .sidebar nav a.active { color:#1a1a1a; font-weight:600; }
+  .sidebar-coffee { margin-top:1.5rem; }
+  .coffee-bottom { display:none; margin-top:2.5rem; }
+  .coffee .bmc-btn { min-width:0; height:36px; padding:0 12px; font-size:14px; line-height:1; border-radius:8px; }
+  .coffee .bmc-btn svg { height:20px !important; }
   @media (max-width: 900px) {
+    .sidebar-coffee { display:none; }
+    .coffee-bottom { display:block; }
     .layout { display:block; }
     .layout > .container { margin:0 auto; padding-top:1rem; }
     .sidebar { position:static; max-width:700px; margin:0 auto; padding:1.5rem 1.5rem 0; }
