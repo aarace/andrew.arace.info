@@ -1,12 +1,16 @@
 title: Andrew Arace
+url: https://andrew.arace.info
 logo: profile.png
 email: andrew.arace@gmail.com
-description: ""
+description: "a software engineer"
 author:
   name: Andrew Arace
   twitter: andrewarace
   picture: https://en.gravatar.com/userimage/8997205/827de74b9ca43aaebcd3747e980b3e58.jpeg
 twitter_username: andrewarace
+twitter:
+  username: andrewarace
+  card: summary
 github_username: aarace
 github:
   is_project_page: false
@@ -19,6 +23,11 @@ defaults:
       path: "" # an empty string here means all files in the project
     values:
       layout: "default"
+      image:
+        path: /profile.png
+        width: 640
+        height: 640
+        alt: Andrew Arace
   -
     scope:
       path: ""
